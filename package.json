@@ -1,0 +1,15 @@
+{
+  "name": "w88Desktop",
+  "version": "0.1.0",
+  "description": "W88 on Desktop",
+  "main": "bootstrap.js",
+  "dependencies": {
+    "electron-prebuilt": "^0.37.8",
+    "pretty-bytes": "^2.0.1"
+  },
+  "scripts": {
+    "start": "electron bootstrap.js"
+  },
+  "author": "john turingan",
+  "license": "ISC"
+}
